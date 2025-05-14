@@ -3,7 +3,7 @@
 이 프로젝트는 React, Next.js와 Firebase를 사용하여 만든 할 일 목록(Todo-List) 애플리케이션입니다.
 
 ## 배포 URL
-[Todo App - Vercel](todo-app-eight-sage-83.vercel.app)
+[Todo App - Vercel](https://todo-app-eight-sage-83.vercel.app/)
 
 ## 기능 설명
 
